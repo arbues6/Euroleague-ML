@@ -17,3 +17,8 @@ pip3 install pandas
 pip3 install matplotlib
 pip3 install scikit-learn
 ```
+
+## Other Interesting Links and Resources
+- Andrew Patton's Repository "Basic NBA Tutorials": https://github.com/anpatton/basic-nba-tutorials
+- Talk "Beyond the 4 Factors" with Seth Partnow, Todd Whitehead and Justin Jacobs: https://www.youtube.com/watch?v=DKv-1n5OHEc&&ab_channel=Adri%C3%A0Arbu%C3%A9s
+- Some non-technical deep Euroleague reports: https://medium.com/@adria.arbues
